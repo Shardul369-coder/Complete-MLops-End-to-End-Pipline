@@ -2,6 +2,7 @@ data
 models
 logs
 reports
+projectflow.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
