@@ -1,2 +1,5 @@
 [core]
     autostage = true
+    remote = dvcstore
+['remote "dvcstore"']
+    url = s3://project-tony
